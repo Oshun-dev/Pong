@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William\\source\\repos\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB88FB99-2CDD-40A1-A7C6-379A75A51742}|Pong\\Pong.vcxproj|C:\\Users\\William\\source\\repos\\Pong\\Pong\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB88FB99-2CDD-40A1-A7C6-379A75A51742}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\William\\source\\repos\\Pong\\Pong\\Source.cpp",
+              "RelativeDocumentMoniker": "Pong\\Source.cpp",
+              "ToolTip": "C:\\Users\\William\\source\\repos\\Pong\\Pong\\Source.cpp",
+              "RelativeToolTip": "Pong\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T17:52:25.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
